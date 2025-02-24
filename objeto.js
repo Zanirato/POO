@@ -9,3 +9,6 @@ const aluno = {
 
 console.log(aluno.nome);
 aluno.estudar();
+
+// nome e idade = propriedade
+// estudar() = método
