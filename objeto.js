@@ -12,3 +12,4 @@ aluno.estudar();
 
 // nome e idade = propriedade
 // estudar() = método
+
